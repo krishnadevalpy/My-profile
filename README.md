@@ -1,3 +1,3 @@
-## SMART WASTE MANAGEMENT SYSTEM
+##Welcome my profile
 
  design project on waste management system using nodemcu 12e
