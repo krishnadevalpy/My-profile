@@ -6,5 +6,5 @@ Welcome to my GitHub profile. I'm Krishna Dev!
 
 • my hobbies: Artist, travel 
 
-• visit me at personal link: krishnadevvrindavan@gmail.com
+
 
