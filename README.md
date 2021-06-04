@@ -1,3 +1,3 @@
-##Welcome my profile
+## Welcome my profile
 
- design project on waste management system using nodemcu 12e
+ This is Krishnadev 
