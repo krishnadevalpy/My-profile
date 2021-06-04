@@ -1,3 +1,3 @@
-## Welcome my profile
+## Hi there 
 
- This is Krishnadev 
+ Welcome to my profile.
